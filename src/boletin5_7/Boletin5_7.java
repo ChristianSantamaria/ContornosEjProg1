@@ -42,7 +42,8 @@ public class Boletin5_7 {
                 int rad;
                 rad = Integer.parseInt(JOptionPane.showInputDialog("Escriba el radio: "));
                 System.out.println("- Circulo: " + Math.pow(rad, 2) * Math.PI );
-                break;   
+                break;  
+                
         }
     }
     
